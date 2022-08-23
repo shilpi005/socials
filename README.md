@@ -1,0 +1,2 @@
+# socials
+a frontend project
